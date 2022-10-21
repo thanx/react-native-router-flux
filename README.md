@@ -1,3 +1,10 @@
+# This is a Thanx fork
+
+We've forked the original package in order to
+- Remove `ViewPropTypes`, which was removed by react-native
+
+We'll tag forked versions of the releases we use with `-thanx.#`. For example, a forked version of `v4.2.0` might be `v4.2.0-thanx.1`.
+
 # React Native Router (v4.x) [![Backers on Open Collective](https://opencollective.com/react-native-router-flux/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-router-flux/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/aksonov/react-native-router-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aksonov/react-native-router-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Codacy Badge](https://api.codacy.com/project/badge/grade/c6d869e2367a4fb491efc9de228c5ac6)](https://www.codacy.com/app/aksonov-github/react-native-router-flux) [![npm version](https://badge.fury.io/js/react-native-router-flux.svg)](http://badge.fury.io/js/react-native-router-flux) [![CircleCI](https://circleci.com/gh/aksonov/react-native-router-flux.svg?style=svg)](https://circleci.com/gh/aksonov/react-native-router-flux)
 
 [Follow author @PAksonov](https://twitter.com/PAksonov)
